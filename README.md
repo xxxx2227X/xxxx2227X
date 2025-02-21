@@ -16,13 +16,12 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![TON](https://img.shields.io/badge/TON-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-%23137CBD?style=for-the-badge)
 
 ## Development Tools
 ![Hardhat](https://img.shields.io/badge/Hardhat-35495E?style=for-the-badge)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
 ![Anchor](https://img.shields.io/badge/Anchor-2c84fa?style=for-the-badge)
-
+![Blueprint](https://img.shields.io/badge/Blueprint-%23137CBD?style=for-the-badge)
 
 ## GitHub Statistics
 <p align="center">
