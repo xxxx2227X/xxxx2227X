@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f6fffa&width=435&lines=Blockchain+Developer;Smart+Contract+Engineer;Web3+Enthusiast" alt="Typing SVG" />
+  <h1>Blockchain Developer</h1>
+
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f6fffa&center=true&width=435&lines=Smart+Contract+Engineer;Web3+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## Technologies & Languages
